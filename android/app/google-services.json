@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364258919023",
+    "project_id": "givetogrow",
+    "storage_bucket": "givetogrow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364258919023:android:dd3c6db148bbb3c3c0039a",
+        "android_client_info": {
+          "package_name": "com.akuaoduro.givetogrow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYqiivKEwicHBu1sIxNUJE9seVJCXyAKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
