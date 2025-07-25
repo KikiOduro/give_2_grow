@@ -10,7 +10,6 @@
 - 🏫 **School Directory** – Browse and view schools with urgent needs.
 - 🛍️ **Donation Cart** – Add items and amounts to donate to selected schools.
 - 💳 **Firestore Integration** – Save donation records with full details.
-- 🧾 **Receipt Upload (Firebase Storage)** – (Optional) Upload donation receipts.
 - 📜 **Past Donation History** – View donation summaries with status and timestamp.
 - 👤 **User Profile** – View personalized profile with avatar and motivational quote.
 - 🌟 **Daily Quote** – Get inspired with a new motivational quote each day (via ZenQuotes API).
@@ -24,14 +23,7 @@
 - **Cloud Firestore** (Data storage)
 - **Firebase Storage** (Image uploads)
 - **SharedPreferences** (Local user info)
-- **Riverpod / Provider** (State management)
 - **REST API** (ZenQuotes for daily quote)
-
----
-
-## 📸 Screenshots
-
-*(Include screenshots here from major pages: Login, Home, School Detail, Cart, Profile, Donations)*
 
 ---
 
